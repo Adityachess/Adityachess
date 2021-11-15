@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Full Stack Development.**
+- 🌱 I’m currently learning **Full Stack Developer.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
