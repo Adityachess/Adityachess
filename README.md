@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Software Development at BridgeLabz.**
+- 🌱 I’m currently learning **Full Stack Development.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
